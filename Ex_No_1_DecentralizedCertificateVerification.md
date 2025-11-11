@@ -39,7 +39,7 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-#Output:
+# Output:
 ![WhatsApp Image 2025-11-11 at 8 34 23 PM](https://github.com/user-attachments/assets/066b6c5d-67c8-4d86-b012-89d30b5afccd)
 
 # Result:
